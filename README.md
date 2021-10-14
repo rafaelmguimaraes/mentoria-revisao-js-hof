@@ -16,7 +16,7 @@ Retorne uma lista com a frequência por tipo de Pet, que sejam machos, e tenham 
 _idade humana = para efeitos práticos, neste exercícios vamos considerar o fator de multiplicação para encontrar a idade humana de um Pet o número sete, ou seja, se um pet tem 2 anos, em idade humana equivalente seria 14 (2 _ 7)
 
 Resultado esperado:
-{ Dog: 3, Cat: 3, Turtle: 1, Rabbit: 1, Parrot: 1, Fish: 2 }
+`{ Dog: 3, Cat: 3, Turtle: 1, Rabbit: 1, Parrot: 1, Fish: 2 }`
 
 #### Desafio 02 - Retorne em formato texto, conforme abaixo, contendo o nome e a idade de todas as gatas.
 
@@ -25,10 +25,10 @@ Retorne em formato texto, conforme abaixo, contendo o nome e a idade de todas as
 
 Resultado esperado:
 
-- Emma: 3 anos
-- Sophia: 6 anos
-- Minie: 3 anos
-- Harper: 1 ano
+`- Emma: 3 anos`
+`- Sophia: 6 anos`
+`- Minie: 3 anos`
+`- Harper: 1 ano`
 
 #### Desafio 03 - Retorne a soma das idades de todos os pets que não são cachorros nem gatos.
 
@@ -36,7 +36,7 @@ Dado uma lista de animais de estimação (file: data/Pets.json)
 Retorne a soma das idades de todos os pets que não são cachorros nem gatos.
 
 Resultado esperado:
-43
+`43`
 
 ### Bônus para praticar
 
