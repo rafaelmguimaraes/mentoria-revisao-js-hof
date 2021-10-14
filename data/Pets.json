@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Liam",
+    "age": 2,
+    "gender": "Male",
+    "type": "Dog"
+  },
+  {
+    "name": "Noah",
+    "age": 4,
+    "gender": "Male",
+    "type": "Cat"
+  },
+  {
+    "name": "Oliver",
+    "age": 11,
+    "gender": "Male",
+    "type": "Turtle"
+  },
+  {
+    "name": "Elijah",
+    "age": 1,
+    "gender": "Male",
+    "type": "Rabbit"
+  },
+  {
+    "name": "William",
+    "age": 3,
+    "gender": "Male",
+    "type": "Parrot"
+  },
+  {
+    "name": "James",
+    "age": 1,
+    "gender": "Male",
+    "type": "Fish"
+  },
+  {
+    "name": "Jack",
+    "age": 2,
+    "gender": "Male",
+    "type": "Fish"
+  },
+  {
+    "name": "Benjamin",
+    "age": 4,
+    "gender": "Male",
+    "type": "Dog"
+  },
+  {
+    "name": "Lucas",
+    "age": 2,
+    "gender": "Male",
+    "type": "Cat"
+  },
+  {
+    "name": "Henry",
+    "age": 3,
+    "gender": "Male",
+    "type": "Dog"
+  },
+  {
+    "name": "Alexander",
+    "age": 5,
+    "gender": "Male",
+    "type": "Cat"
+  },
+  {
+    "name": "Olivia",
+    "age": 5,
+    "gender": "Female",
+    "type": "Dog"
+  },
+  {
+    "name": "Emma",
+    "age": 3,
+    "gender": "Female",
+    "type": "Cat"
+  },
+  {
+    "name": "Ava",
+    "age": 21,
+    "gender": "Female",
+    "type": "Turtle"
+  },
+  {
+    "name": "Charlotte",
+    "age": 2,
+    "gender": "Female",
+    "type": "Rabbit"
+  },
+  {
+    "name": "Sophia",
+    "age": 6,
+    "gender": "Female",
+    "type": "Cat"
+  },
+  {
+    "name": "Amelia",
+    "age": 2,
+    "gender": "Female",
+    "type": "Fish"
+  },
+  {
+    "name": "Isabella",
+    "age": 6,
+    "gender": "Female",
+    "type": "Dog"
+  },
+  {
+    "name": "Minie",
+    "age": 3,
+    "gender": "Female",
+    "type": "Cat"
+  },
+  {
+    "name": "Evelyn",
+    "age": 4,
+    "gender": "Female",
+    "type": "Dog"
+  },
+  {
+    "name": "Harper",
+    "age": 1,
+    "gender": "Female",
+    "type": "Cat"
+  }
+]
